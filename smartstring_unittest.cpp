@@ -1,3 +1,6 @@
+/*
+	Unittest for SmartString Class
+*/
 #include "SmartString.hpp"
 
 int 
